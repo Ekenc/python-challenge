@@ -2,7 +2,7 @@
 import os
 import csv
     
-budgetData = os.path.join("python-challenge","PyBank","resources","budget_data.csv")
+budgetData = os.path.join("recources","budget_data.csv")
 # currentDirectory = os.getcwd()
 # print(currentdirectory)
 # print(budgetData)
